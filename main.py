@@ -11,8 +11,8 @@ if __name__ == '__main__':
         print('3. Szukaj znajomego ')
         print('4. Usuń znajomego ')
         print('5. Kogo zaktualizować')
-        print('6. wyświetl mapę dla każdego użytkownika')
-        print('7. wyświetl zbiorczą mapę')
+        print('6. Wyświetl mapę dla każdego użytkownika')
+        print('7. Wyświetl zbiorczą mapę')
 
         menu_option = input('wybierz opcje menu: ')
         if menu_option == '0': break
