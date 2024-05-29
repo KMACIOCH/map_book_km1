@@ -5,12 +5,12 @@ if __name__ == '__main__':
     print(f'witaj {users[0]["name"]}')
 
     while True:
-        print('0. zakończ program ')
-        print('1. wyświetl znajomych ')
-        print('2. dodaj znajomego ')
-        print('3. szukaj znajomego ')
-        print('4. usuń znajomego ')
-        print('5. kogo zaktualizować')
+        print('0. Zakończ program ')
+        print('1. Wyświetl znajomych ')
+        print('2. Dodaj znajomego ')
+        print('3. Szukaj znajomego ')
+        print('4. Usuń znajomego ')
+        print('5. Kogo zaktualizować')
 
         menu_option = input('wybierz opcje menu: ')
         if menu_option == '0': break
